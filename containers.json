@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Shivam VM",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "shivamwin",
+        "S3Key": "Shivamwin-disk1.vmdk"
+    }
+}]
